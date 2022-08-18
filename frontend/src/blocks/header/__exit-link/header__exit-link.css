@@ -1,0 +1,18 @@
+.header__exit-link {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 22px;
+  color: #a9a9a9;
+  margin: 0;
+  text-align: center;
+  opacity: 100%;
+  transition: opacity 0.2s;
+  background-color: #000;
+  cursor: pointer;
+  margin: 0 0 0 24px;
+}
+
+.header__exit-link:hover {
+  opacity: 60%;
+}
